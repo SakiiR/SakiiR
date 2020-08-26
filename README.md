@@ -2,12 +2,17 @@
 
 
 <h2> Hi! I'm SakiiR!</h2>
+
+<p><em>Security Researcher and Software Developer.</em></p>
+<br>
+<br>
+<br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SakiiR&show_icons=true&theme=chartreuse-dark" width="380">
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakiiR&layout=compact&theme=chartreuse-dark" width="380">
-<p><em>Security Researcher and Software Developer.</em></p>
 
 [![Twitter: sakiirsecurity](https://img.shields.io/twitter/follow/sakiirsecurity?style=flat-square)](https://twitter.com/sakiirsecurity)
 [![GitHub SakiiR](https://img.shields.io/github/followers/SakiiR?label=follow%20github&style=flat-square)](https://github.com/SakiiR)
+
 
 ```__proto__
 
