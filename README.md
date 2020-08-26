@@ -2,7 +2,7 @@
 
 
 <h2> Hi! I'm SakiiR!</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SakiiR&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=SakiiR&show_icons=true&theme=chartreuse-dark" width="380">
 <p><em>Security Researcher and Software Developer.</em></p>
 
 [![Twitter: sakiirsecurity](https://img.shields.io/twitter/follow/sakiirsecurity?style=flat-square)](https://twitter.com/sakiirsecurity)
