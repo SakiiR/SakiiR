@@ -11,6 +11,12 @@
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SakiiR&show_icons=true&theme=chartreuse-dark" width="380">
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakiiR&layout=compact&theme=chartreuse-dark" width="380">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -55,19 +61,4 @@
                .`!!!!!!!/`.;;~;;`~!! '
                  -~!!!!!!!!!!!!!(!!/ .
                     `!!!!!!!!!!!!!!'
-		
 ```
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
