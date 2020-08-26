@@ -9,15 +9,10 @@
 [![GitHub SakiiR](https://img.shields.io/github/followers/SakiiR?label=follow%20github&style=flat-square)](https://github.com/SakiiR)
 
 <br>
-<br>
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=SakiiR&show_icons=true&theme=chartreuse-dark" width="100%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakiiR&layout=compact&theme=chartreuse-dark" width="100%">
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 
