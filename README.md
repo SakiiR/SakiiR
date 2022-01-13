@@ -10,11 +10,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SakiiR&show_icons=true&theme=chartreuse-dark" width="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakiiR&layout=compact&theme=chartreuse-dark" width="100%">
-
-<br>
-
 
 
 ```__proto__
