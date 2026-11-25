@@ -1,12 +1,11 @@
-# Home
+<h2 align="center">Hi! I'm SakiiR! 👋</h2>
 
+<p align="center"><em>Security Researcher and Software Developer.</em></p>
 
-<h2> Hi! I'm SakiiR!</h2>
-
-<p><em>Security Researcher and Software Developer.</em></p>
-
-[![Twitter: sakiirsecurity](https://img.shields.io/twitter/follow/sakiirsecurity?style=flat-square)](https://twitter.com/sakiirsecurity)
-[![GitHub SakiiR](https://img.shields.io/github/followers/SakiiR?label=follow%20github&style=flat-square)](https://github.com/SakiiR)
+<p align="center">
+  <a href="https://x.com/sakiirsecurity"><img src="https://img.shields.io/badge/follow-%40sakiirsecurity-000000?style=flat-square&logo=x&logoColor=white" alt="X: sakiirsecurity" /></a>
+  <a href="https://github.com/SakiiR"><img src="https://img.shields.io/github/followers/SakiiR?label=follow%20github&style=flat-square&logo=github" alt="GitHub SakiiR" /></a>
+</p>
 
 <br>
 
